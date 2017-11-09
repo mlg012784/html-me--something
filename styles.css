@@ -1,0 +1,31 @@
+.picture{
+    height: 400px;
+    width: 800px;
+    align-content: right;
+    display:block;
+}
+
+
+.para{
+    font-size: 25px;
+    
+}
+h1{
+    font-family: cursive;
+    text-align: center;
+}
+#list{
+    display:block;
+    margin:auto;
+}
+nav ol{
+    text-align:center 
+}
+nav ol li{
+    display: inline-block;
+    margin-right: 10px;
+}
+main :first-child{
+    background-color: lightblue
+}
+
